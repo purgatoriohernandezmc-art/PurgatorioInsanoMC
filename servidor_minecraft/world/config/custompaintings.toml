@@ -1,0 +1,15 @@
+# Config version is auto-generated
+# DO NOT CHANGE
+configVersion = 1
+# Throttle image transfers to clients
+throttleImageDownloads = true
+# Maximum number of image packets per second
+maxImagePacketsPerSecond = 40
+# Maximum number of image packets per second per client
+maxPerClientImagePacketsPerSecond = 10
+# Maximum size for each image packet in KB
+maxImagePacketSize = 256
+# Use the stone cutter to choose specific paintings
+pickPaintingWithStoneCutter = true
+# Use the stone cutter to choose specific vanilla paintings
+pickVanillaPaintingWithStoneCutter = true
